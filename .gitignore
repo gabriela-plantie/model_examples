@@ -1,0 +1,7 @@
+**/*.csv
+**/*.txt
+**/*.pkl
+**/catboost_info/
+**/change_names.ipynb
+**/.DS_Store
+**/.ipynb_checkpoints/**
